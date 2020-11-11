@@ -1,6 +1,6 @@
 {
-  "name": "flip-book",
-  "version": "1.9.9",
+  "name": "flipbook",
+  "version": "2",
   "description": "3D FlipBook allows to browse images, PDFs or HTMLs as a flipping book. It helps to attract user attention and make more impression on him.",
   "main": "dist/flip-book.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iberezansky/flip-book-jquery.git"
+    "url": "git+https://github.com/jbarner8812/flipbook-jquery.git"
   },
   "keywords": [
     "jquery-plugin",
